@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, world 🌍
 
-<!--
-**Brian-Hayes5112/Brian-Hayes5112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Brian-Hayes5112**, a security researcher.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Build small, ship often
+- 💬 Ask me anything about code
+- 🚀 Performance matters
+
+## Tech
+
+`Nuxt` `Haskell` `SolidJS`
+
+---
+
+_Hobbyist photographer._
